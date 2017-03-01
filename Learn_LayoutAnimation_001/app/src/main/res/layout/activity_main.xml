@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="layout_animation_001.edu.imufe.com.learn_layoutanimation_001.MainActivity"
+    android:orientation="vertical">
+
+
+    <ListView
+        android:id="@+id/my_listview_001"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layoutAnimation="@anim/anim_item_001"
+        android:dividerHeight="1.0px"
+        android:listSelector="@android:color/transparent">
+    </ListView>
+
+
+    <!--
+
+        ListView中的动画：
+                            使用动画文件——》anim_item_001.xml
+        ListView中的列表选择器：
+                                默认的颜色——》透明
+    -->
+
+
+</LinearLayout>

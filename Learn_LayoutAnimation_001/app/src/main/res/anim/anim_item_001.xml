@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="300"
+    android:interpolator="@android:anim/accelerate_interpolator"
+    android:shareInterpolator="true">
+
+
+    <!-- 动画的时间：300毫秒 ，Set动画集都共享一个动画时间 -->
+    <!-- 是否共享动画插值器：是 -->
+    <!-- 动画插值器的属性： 加速插值器 -->
+
+    <alpha
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0" />
+
+    <!-- 透明度动画： 从0.0（完全不可见） 到  1.0（完全显示） -->
+
+    <translate
+        android:fromXDelta="500"
+        android:toXDelta="0" />
+
+    <!-- 平移动画： 从 500 移动到 0 -->
+
+
+</set>

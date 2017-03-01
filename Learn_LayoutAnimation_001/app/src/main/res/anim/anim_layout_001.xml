@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:animation="@anim/anim_layout_001"
+    android:animationOrder="normal"
+    android:delay="0.5">
+    <!-- 表示子元素的时间延迟 -->
+    <!-- 表示子元素动画的顺序 -->
+    <!-- 表示显示动画作用域：哪一个Activity -->
+</layoutAnimation>
