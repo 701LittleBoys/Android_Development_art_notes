@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Learn_Attributeanimation.iml" filepath="$PROJECT_DIR$/Learn_Attributeanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_animationlistence001/learn_animationlistence001.iml" filepath="$PROJECT_DIR$/learn_animationlistence001/learn_animationlistence001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_arrtibute_animation003/learn_arrtibute_animation003.iml" filepath="$PROJECT_DIR$/learn_arrtibute_animation003/learn_arrtibute_animation003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_attribute_animation002/learn_attribute_animation002.iml" filepath="$PROJECT_DIR$/learn_attribute_animation002/learn_attribute_animation002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/praitice_animation_001/praitice_animation_001.iml" filepath="$PROJECT_DIR$/praitice_animation_001/praitice_animation_001.iml" />
+    </modules>
+  </component>
+</project>
